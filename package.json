@@ -1,5 +1,0 @@
-This is package.json file for a Node.js project.
-It contains metadata about the project, including its name,    
-version, description, main entry point, scripts, dependencies,
-and other configurations. The file is used by npm (Node Package Manager) 
-to manage the project's dependencies and scripts.
